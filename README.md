@@ -1,6 +1,6 @@
 # TLE-track
 
-https://kopypaster.github.io/TLE-track/
+https://Splucheviy.github.io/TLE-track/
 
 * Точку исправить на спутник 
 * Cделать пронгоз не на 1 день
